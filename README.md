@@ -2,6 +2,8 @@
 
 A modern, responsive landing page for a premium pet care service, built with Next.js 15 and featuring beautiful animations, glassmorphism UI design, and comprehensive pet care solutions.
 
+<img width="1443" height="1057" alt="Image" src="https://github.com/user-attachments/assets/3ad1640f-5efa-4243-be18-6238a9e0b11b" />
+
 ## ✨ Features
 
 ### 🏠 Landing Page
